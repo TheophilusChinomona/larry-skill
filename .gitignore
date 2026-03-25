@@ -1,0 +1,5 @@
+node_modules/
+tiktok-marketing/
+*.json
+!config.example.json
+!_meta.json
